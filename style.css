@@ -1,4 +1,6 @@
-
+*{
+  background-color: #8a99a5;
+}
 #calculator {
   border: 1px solid black;
   border-radius: 10px;
@@ -19,4 +21,5 @@
   display: flex;
   flex-wrap: wrap;
   justify-content:center;
+  background-color: #1f1a1a;
 }
